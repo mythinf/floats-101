@@ -1,0 +1,23 @@
+
+#header{
+  background: #DEB887
+}
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+#content {
+	float: left;
+	width: 660px;
+	background: #FFDEAD;
+}
+#navigation {
+	float: right;
+	width: 300px;
+	background: #BC8F8F;
+}
+#footer {
+	clear: both;
+	background: #8FBC8F;
+	padding: 10px;
+}

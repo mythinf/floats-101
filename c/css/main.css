@@ -1,0 +1,17 @@
+body{
+  background-color: pink;
+}
+/*Utilizando la propieda float: left los elementos se movera (flotarán) a la
+izquierda del margin body todos juntos.*/
+.block1 {
+	float: left;
+	width: 200px;
+	height: 200px;
+  background-color: yellow;
+}
+.block2 {
+	float: left;
+	width: 200px;
+	height: 200px;
+  background-color: purple;
+}

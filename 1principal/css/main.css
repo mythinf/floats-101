@@ -1,0 +1,43 @@
+*{
+  background: #E9967A	;
+}
+h1{
+  background: #8B008B	;
+  font-family: 'Indie Flower', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+div{
+  width: 80px;
+	height: 30px;
+  float: left;
+  margin: 100px;
+  content: 10px;
+}
+.a{
+  background: red	;
+}
+.b{
+  background: #000080;
+}
+.c{
+  background: #ADFF2F	;
+}
+.d{
+  background: #D8BFD8;
+}
+.e{
+  background: #F0FFF0	;
+}
+.e1{
+  background: #FFA500;
+}
+.f{
+  background: #008080;
+}
+.g{
+  background: #1E90FF	;
+}
+.h{
+  background: #90EE90	;
+}

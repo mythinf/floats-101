@@ -1,0 +1,6 @@
+/*Utilizando la propiedad float: right; la imagen se moverá 10px
+a la derecha del margen de su contenedor (body)*/
+img {
+	float: right;
+	margin: 10px;
+}

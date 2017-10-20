@@ -1,0 +1,14 @@
+body{
+  background-color: pink;
+}
+/*Utilizando la propieda float: left los elementos se movera (flotarán) a la
+izquierda */
+.block {
+	width: 200px;
+	height: 200px;
+}
+.float { float: left; }
+.pink { background: #ee3e64; }
+.blue { background: #44accf; }
+.green { background: #b7d84b; }
+.orange { background: #E2A741; }

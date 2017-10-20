@@ -1,0 +1,14 @@
+*{
+  background-color: pink;
+}
+
+.blockp{
+  width: 200px;
+	height: 200px;
+  background-color: purple;
+}
+.blocky{
+  width: 200px;
+	height: 200px;
+  background-color: yellow;
+}
